@@ -26,7 +26,7 @@ A Python app that uses OpenCV to detect faces and bodies in real-time. It starts
    ```bash
    pip install -r requirements.txt
 4. Usage
-  1. Run the app:
-     ```bash
-     python security_camera.py
-  2. Press 'q' to quit the application.
+  Run the app:
+   ```bash
+   python security_camera.py
+  Press 'q' to quit the application.
