@@ -1,10 +1,10 @@
 # Security Camera with Motion Detection
 
-A Python app that uses OpenCV to detect faces and bodies in real-time. It starts recording when motion is detected and saves the video with a timestamp. Blue rectangles highlight detected faces and bodies.
+A Python app that uses OpenCV to detect faces and bodies in real-time. It starts recording when motion is detected and saves the video with a timestamp. Blue rectangles highlight detected faces.
 
 ## Features
 - Real-time face and body detection using Haar cascades.
-- Starts recording when motion (face/body) is detected.
+- Starts recording when motion (face) is detected.
 - Saves video with a timestamped filename.
 - Stops recording after a set time once motion stops.
 - Blue rectangles around detected faces and bodies.
